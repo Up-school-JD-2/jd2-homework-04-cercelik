@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cerencelik
+ *
+ */
+module MusicStore {
+}
