@@ -25,10 +25,10 @@ public class Songs {
 
 	public void printSongs() {
 
-		System.out.println("Song name is: " + songName);
+		System.out.println("Song name is: " + getsongName());
 		System.out.println("Singer name is: " + album.getSingerName());
 		System.out.println("Album name is: " + album.getSingerName());
-		System.out.println("Song length is: " + length);
+		System.out.println("Song length is: " + getLength());
 		System.out.println();
 	}
 
